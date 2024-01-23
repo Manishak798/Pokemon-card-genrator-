@@ -27,4 +27,5 @@ Feel free to contribute, report issues, or suggest improvements. Happy Pokemon c
 **Contribution:** Contributions are welcome! Feel free to open issues and pull requests. 🤝
 
 ## Project Img
+![pokemon card](pokecard.jpg)
 
