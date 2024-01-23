@@ -16,10 +16,6 @@ This project allows users to generate random Pokemon cards using HTML, CSS, and 
 
 Feel free to contribute, report issues, or suggest improvements. Happy Pokemon card generating! 🎉
 
-## Project Img
-![pokemon card img](./pokecard.jpg)
-
-
 **Tech Stack:**
 - HTML
 - CSS
@@ -29,3 +25,6 @@ Feel free to contribute, report issues, or suggest improvements. Happy Pokemon c
 **Author:** Manisha kundnani 👩‍💻
 
 **Contribution:** Contributions are welcome! Feel free to open issues and pull requests. 🤝
+
+## Project Img
+
