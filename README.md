@@ -4,6 +4,9 @@ Welcome to the Pokemon Card Generator project! 🌈
 
 # Visit Project 🔗🌐
 
+https://github.com/Manishak798/Pokemon-card-genrator-/assets/90680330/b79f7b08-3e02-4be6-a69d-85100e0f9d39
+
+
 https://manishak798.github.io/Pokemon-card-genrator-/
 
 This project allows users to generate random Pokemon cards using HTML, CSS, and JavaScript. The data for the Pokemon cards is sourced from the Poke API, providing a diverse range of Pokemon to discover.
